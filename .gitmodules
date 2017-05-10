@@ -1,0 +1,4 @@
+[submodule "GitLink"]
+	path = GitLink
+	url = https://github.com/rkarni/GitLink.git
+	branch = Dev
